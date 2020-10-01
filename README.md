@@ -1,2 +1,2 @@
 # Statistical_problems
-My solutions for problems from statistial learning in R and Python
+My solutions for problems from Introduction to statistial learning in R and Python
